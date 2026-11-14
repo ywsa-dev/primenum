@@ -1,0 +1,1 @@
+g++ primenum.cpp -o primenum.exe
